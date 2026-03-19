@@ -24,23 +24,23 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 ## System Screenshots
 
-<p align="center"><b>Resident Mobile Interface</b></p>
+<p align="center"><b>Frontend: Admin Dashboard</b></p>
 <p align="center">
   <img src="assets/github_ss1.png" width="700"/>
 </p>
 
-<p align="center"><b>Admin Dashboard</b></p>
+<p align="center"><b>Backend: Docker Container</b></p>
 <p align="center">
   <img src="assets/github_ss7_new.png" width="700"/>
 </p>
 
-<p align="center"><b>Mobile App: Node & Data Views</b></p>
+<p align="center"><b>Frontend: Mobile App / Web App</b></p>
 <p align="center">
   <img src="assets/github_ss2.png" width="300"/>
   <img src="assets/github_ss3.png" width="300"/>
 </p>
 
-<p align="center"><b>Dashboard: Sensor & Forecast Views</b></p>
+<p align="center"><b>3D-Model: Side, Front, Top</b></p>
 <p align="center">
   <img src="assets/github_ss4.png" width="269" height="268" style="margin-right: 10px;" />
   <img src="assets/github_ss5.png" width="269" height="200" style="margin-right: 10px;" />
