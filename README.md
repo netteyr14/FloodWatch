@@ -1,9 +1,13 @@
 # FloodWatch (Under Developemnt)
 
 ![Python](https://img.shields.io/badge/Python-3.11.5-red?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0-red?style=for-the-badge)
+![Waitress](https://img.shields.io/badge/Waitress-3.0.2-red?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.35.7-orange?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-29.2-blue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-yellowgreen?style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-1.28.0-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Cloudflared-2025.8.1-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.35-yellowgreen?style=for-the-badge)
 
 **Research Paper Reference:**  
 *"Real-Time Flood Monitoring System with Water Level Forecasting using LoRaWAN-Based Wireless Sensor Network"*
