@@ -51,4 +51,4 @@ Tower Sensors (LoRa32) → LoRa32 Gateway → Backend API (Docker) → MySQL Dat
 - [FloodWatch Mobile App/Web_App](https://github.com/netteyr14/FloodWatch-Mobile-App)
 - [FloodWatch_Desktop_App](https://github.com/netteyr14/FloodWatch-Desktop-App)
 
-- [Request Access](mailto:753951852456arvin@gmail.com)
+- [Request Access](mailto:753951852456arvin@gmail.com) on this email.
