@@ -24,7 +24,7 @@ FloodWatch is an IoT-based flood monitoring system that detects rising water lev
 
 
 <p float="left">
-  <img src="assets/github_ss4.png" width="260" height="260" />
+  <img src="assets/github_ss4.png" width="270" height="270" />
   <img src="assets/github_ss5.png" width="300" height="205" />
   <img src="assets/github_ss6.png" width="300" height="205" />
 </p>
