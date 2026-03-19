@@ -1,7 +1,7 @@
 # FloodWatch
 
 **Research Paper Reference:**  
-*"Real-Time Flood Monitoring System with Water Level Forecasting using LoRaWAN Based Wireless Sensor Network"*
+*"Real-Time Flood Monitoring System with Water Level Forecasting using LoRaWAN-Based Wireless Sensor Network"*
 
 ---
 
