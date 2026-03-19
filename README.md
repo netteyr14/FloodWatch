@@ -92,7 +92,7 @@ Resident App / Admin Dashboard
 
 The backend, mobile, and desktop applications are maintained in private repositories due to security and research considerations.
 
-Access can be requested via:
+Access can be requested via email:
 753951852456arvin@gmail.com
 
 ---
