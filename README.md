@@ -1,7 +1,7 @@
 # FloodWatch (Under Developemnt)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-3.35.7-blue?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge)
 
