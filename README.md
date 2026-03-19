@@ -36,10 +36,10 @@ FloodWatch is an IoT-based flood monitoring system that detects rising water lev
 
 ## System Components
 
-- **Resident Application** – Flutter Web & Mobile  
-- **Admin Dashboard** – Flutter Desktop  
-- **Backend API** – Dockerized Python backend with Waitress, MySQL, and LightGBM for prediction  
-- **Sensor Nodes (LoRa32)** – Towers with FMCW Radar, Rain Sensor, and Anemometer powered by 12V 9Ah UPS
+- **Resident Application** – A cross-platform interface built with Flutter for web and mobile devices, allowing community members to view real-time flood data, forecasts, and receive alerts.
+- **Admin Dashboard** – A desktop-based application developed using Flutter, designed for monitoring system status, managing data, and supporting decision-making for authorities.
+- **Backend API** – A containerized server powered by Docker and Python, utilizing Waitress and NGINX for request handling, MySQL for data storage, and LightGBM for flood prediction and forecasting.
+- **Sensor Nodes (LoRa32)** – Distributed field units installed on monitoring towers, equipped with FMCW radar, rain sensors, and anemometers. These nodes operate on a 12V 9Ah power system with solar support and communicate via LoRa-based wireless transmission.
 
 ---
 
