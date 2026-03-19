@@ -47,8 +47,8 @@ Tower Sensors (LoRa32) → LoRa32 Gateway → Backend API (Docker) → MySQL Dat
 
 ## Repositories (Private)
 
-[FloodWatch Backend](https://github.com/netteyr14/CAPSTONE-FloodWatch-LightGBM)
-[FloodWatch Mobile App/Web_App](https://github.com/netteyr14/FloodWatch-Mobile-App)
-[FloodWatch_Desktop_App](https://github.com/netteyr14/FloodWatch-Desktop-App)
+- **[FloodWatch Backend](https://github.com/netteyr14/CAPSTONE-FloodWatch-LightGBM)
+- **[FloodWatch Mobile App/Web_App](https://github.com/netteyr14/FloodWatch-Mobile-App)
+- **[FloodWatch_Desktop_App](https://github.com/netteyr14/FloodWatch-Desktop-App)
 
-[Request Access](mailto:753951852456arvin@gmail.com)
+- **[Request Access](mailto:753951852456arvin@gmail.com)
