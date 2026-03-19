@@ -13,8 +13,11 @@
 ## Overview
 FloodWatch is an IoT-based flood monitoring system that detects rising water levels in real-time, generates forecasts, and sends alerts to residents and barangay officials. It integrates distributed sensor nodes, wireless LoRaWAN communication, a containerized cloud backend, and Flutter applications for community users and administrators.
 
-> **Demo GIF / Screenshot Here:** `![Demo](path/to/demo.gif)`
+## System Screenshots
 
+![Resident Mobile/Web][(assets/resident_web.png](https://imgur.com/a/lsc8ROK))
+![Admin Dashboard](https://imgur.com/a/EmH2DuV)
+![Sensor Tower](https://via.placeholder.com/400x200?text=Sensor+Tower+Screenshot)
 ---
 
 ## System Components
