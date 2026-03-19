@@ -1,10 +1,11 @@
-# FloodWatch (Under Developemnt)
+# FloodWatch (Under Development)
 
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-3.11.5-red?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.35.7-orange?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0-red?style=for-the-badge)](https://lightgbm.readthedocs.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.35-yellowgreen?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ### Infrastructure & Deployment
 [![Docker](https://img.shields.io/badge/Docker-29.2.0-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
