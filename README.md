@@ -50,6 +50,6 @@ Tower Sensors (LoRa32) → LoRa32 Gateway → Backend API (Docker) → MySQL Dat
 The backend, mobile, and desktop applications are maintained in private repositories due to security and research considerations.
 
 Access can be requested via:
-📧 753951852456arvin@gmail.com
+753951852456arvin@gmail.com
 
 ---
