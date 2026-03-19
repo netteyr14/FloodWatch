@@ -21,7 +21,13 @@ FloodWatch is an IoT-based flood monitoring system that detects rising water lev
 </p>
 
 ![Admin Dashboard](assets/github_ss1.png)
-![Sensor Tower](https://via.placeholder.com/400x200?text=Sensor+Tower+Screenshot)
+
+
+<p float="left">
+  <img src="assets/github_ss4.png" width="300" />
+  <img src="assets/github_ss5.png" width="300" />
+  <img src="assets/github_ss6.png" width="300" />
+</p>
 ---
 
 ## System Components
