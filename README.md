@@ -24,8 +24,6 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 ## System Screenshots
 
-## System Screenshots
-
 <p align="center"><b>Resident Mobile Interface</b></p>
 <p align="center">
   <img src="assets/github_ss1.png" width="700"/>
