@@ -1,8 +1,8 @@
 # FloodWatch (Under Developemnt)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11.5-blue?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.35.7-blue?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-29.2-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge)
 
 **Research Paper Reference:**  
@@ -43,3 +43,12 @@ FloodWatch is an IoT-based flood monitoring system that detects rising water lev
 
 ```text
 Tower Sensors (LoRa32) → LoRa32 Gateway → Backend API (Docker) → MySQL Database → Applications (Resident Web/App / Admin Dashboard)
+```
+
+## Repositories (Private)
+
+[FloodWatch Backend](https://github.com/netteyr14/CAPSTONE-FloodWatch-LightGBM)
+[FloodWatch Mobile App/Web_App](https://github.com/netteyr14/FloodWatch-Mobile-App)
+[FloodWatch_Desktop_App](https://github.com/netteyr14/FloodWatch-Desktop-App)
+
+[Request Access](mailto:753951852456arvin@gmail.com)
