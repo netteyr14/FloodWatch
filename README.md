@@ -51,6 +51,8 @@ FloodWatch is an IoT-based flood monitoring system that detects rising water lev
 Tower Sensors (LoRa32) → LoRa32 Gateway → Backend API (Docker) → MySQL Database → Applications (Resident Web/App / Admin Dashboard)
 ```
 
+---
+
 ## Repositories (Private)
 
 The backend, mobile, and desktop applications are maintained in private repositories due to security and research considerations.
