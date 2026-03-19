@@ -19,34 +19,36 @@
 ---
 
 ## Overview
-FloodWatch is an IoT-based flood monitoring system that detects rising water levels in real-time, generates forecasts, and sends alerts to residents and barangay officials. 
+FloodWatch is an IoT-based flood monitoring system that detects rising water levels in real-time, generates forecasts, and sends alerts to residents and barangay officials.  
 
-Unlike traditional flood monitoring systems, FloodWatch integrates machine learning-based forecasting and low-power LoRaWAN communication to enable predictive, real-time community alerts even in low-connectivity areas. It combines distributed sensor nodes, wireless communication, a containerized cloud backend, and Flutter applications for both residents and administrators.
+Unlike traditional systems, FloodWatch integrates machine learning-based forecasting and low-power LoRaWAN communication to enable predictive, real-time alerts even in low-connectivity areas. It combines distributed sensor nodes, wireless communication, a containerized backend, and Flutter applications for both residents and administrators.
+
+---
 
 ## System Screenshots
 
 <p align="center"><b>Frontend: Admin Dashboard</b></p>
 <p align="center">
-  <img src="assets/github_ss1.png" width="700"/>
+  <img src="assets/github_ss1.png" width="700" alt="Admin Dashboard Screenshot"/>
 </p>
 
 <p align="center"><b>Backend: "floodwatch-backend" Container</b></p>
 <p align="center">
-  <img src="assets/github_ss7_new.png" width="700"/>
+  <img src="assets/github_ss7_new.png" width="700" alt="Backend Container Screenshot"/>
 </p>
 
 <p align="center"><b>Frontend: Mobile App / Web App</b></p>
-<p align="center">
-  <img src="assets/github_ss2.png" width="300"/>
-  <img src="assets/github_ss3.png" width="300"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/github_ss2.png" width="300" alt="Resident Mobile App"/>
+  <img src="assets/github_ss3.png" width="300" alt="Resident Web App"/>
+</div>
 
-<p align="center"><b>3D-Model: Side, Front, Top</b></p>
-<p align="center">
-  <img src="assets/github_ss4.png" width="269" height="268" style="margin-right: 10px;" />
-  <img src="assets/github_ss5.png" width="269" height="200" style="margin-right: 10px;" />
-  <img src="assets/github_ss6.png" width="269" height="200" />
-</p>
+<p align="center"><b>3D-Model: Side, Front, Top Views</b></p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/github_ss4.png" width="269" height="268" alt="3D Model Side View"/>
+  <img src="assets/github_ss5.png" width="269" height="200" alt="3D Model Front View"/>
+  <img src="assets/github_ss6.png" width="269" height="200" alt="3D Model Top View"/>
+</div>
 
 ---
 
@@ -76,7 +78,6 @@ REST/WebSocket API
         ↓
 Resident App / Admin Dashboard
 ```
-
 ---
 
 ## Features
