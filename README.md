@@ -4,8 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.11.5-red?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0-red?style=for-the-badge)](https://lightgbm.readthedocs.io/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.35.7-orange?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0.35-yellowgreen?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![C++](https://img.shields.io/badge/C++-20-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0.35-yellowgreen?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Infrastructure & Deployment
 [![Waitress](https://img.shields.io/badge/Waitress-3.0.2-red?style=for-the-badge)](https://docs.pylonsproject.org/projects/waitress/en/stable/)
