@@ -2,15 +2,15 @@
 
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-3.11.5-red?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-3.35.7-orange?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0-red?style=for-the-badge)](https://lightgbm.readthedocs.io/)
+[![Flutter](https://img.shields.io/badge/Flutter-3.35.7-orange?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.35-yellowgreen?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![C++](https://img.shields.io/badge/C++-20-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ### Infrastructure & Deployment
+[![Waitress](https://img.shields.io/badge/Waitress-3.0.2-red?style=for-the-badge)](https://docs.pylonsproject.org/projects/waitress/en/stable/)
 [![Docker](https://img.shields.io/badge/Docker-29.2.0-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-1.28.0-blue?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Waitress](https://img.shields.io/badge/Waitress-3.0.2-red?style=for-the-badge)](https://docs.pylonsproject.org/projects/waitress/en/stable/)
 [![Cloudflared](https://img.shields.io/badge/Cloudflared-2025.8.1-blue?style=for-the-badge)](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/)
 
 **Research Paper Reference:**  
