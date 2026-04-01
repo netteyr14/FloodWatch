@@ -62,9 +62,9 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 ## System Architecture
 
 ```text
-Sensor Nodes (LoRa32)
-        ↓
-LoRa Gateway
+Sensor Nodes (LoRa32 TX)
+        ↓ LoRa P2P
+Base Receiver (LoRa32 RX)
         ↓
 Backend API (Docker + Python)
         ↓
