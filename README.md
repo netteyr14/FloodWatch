@@ -11,7 +11,7 @@
 [![Gunicorn](https://img.shields.io/badge/Gunicorn-25.3.0-red?style=for-the-badge&logo=gunicorn&logoColor=white)](https://gunicorn.org/)
 [![Docker](https://img.shields.io/badge/Docker-29.2.0-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-1.28.0-blue?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Cloudflared](https://img.shields.io/badge/Cloudflared-2025.8.1-blue?style=for-the-badge)](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/)
+[![Cloudflared](https://img.shields.io/badge/Cloudflared-2025.8.1-blue?style=for-the-badge&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/)
 
 **Research Paper Reference:**  
 *"Real-Time Flood Monitoring System with Water Level Forecasting using LoRaWAN-Based Wireless Sensor Network"*
