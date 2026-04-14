@@ -8,7 +8,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.35-yellowgreen?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Infrastructure & Deployment
-[![Waitress](https://img.shields.io/badge/Waitress-3.0.2-red?style=for-the-badge)](https://docs.pylonsproject.org/projects/waitress/en/stable/)
+[![Gunicorn](https://img.shields.io/badge/Gunicorn-25.3.0-red?style=for-the-badge)](https://gunicorn.org/)
 [![Docker](https://img.shields.io/badge/Docker-29.2.0-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-1.28.0-blue?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Cloudflared](https://img.shields.io/badge/Cloudflared-2025.8.1-blue?style=for-the-badge)](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/)
@@ -54,7 +54,7 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 - **Resident Application** – Cross-platform Flutter app for web and mobile. Allows residents to view real-time flood data, forecasts, and alerts.
 - **Admin Dashboard** – Desktop Flutter app for monitoring system status, managing sensor data, and supporting decision-making for authorities.
-- **Backend API** – Containerized Python server using Docker, Waitress, and NGINX. Handles data processing, storage (MySQL), and flood prediction via LightGBM.
+- **Backend API** – Containerized Python server using Docker, Gunicorn, and NGINX. Handles data processing, storage (MySQL), and flood prediction via LightGBM.
 - **Sensor Nodes (LoRa32)** – Field units with FMCW radar, rain sensors, and anemometers. Powered by 12V 9Ah with solar support, sending data via LoRaWAN.
 
 ---
