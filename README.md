@@ -27,9 +27,12 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>Frontend: Admin Dashboard</b></p>
 <p align="center">
+  <img src="assets/github_s12.png" width="700"/>
   <img src="assets/github_ss1_new.png" width="700"/>
   <img src="assets/github_ss8.png" width="700"/>
   <img src="assets/github_ss9.png" width="700"/>
+  <img src="assets/github_ss10.png" width="700"/>
+  <img src="assets/github_ss11.png" width="700"/>
 </p>
 
 <p align="center"><b>Backend: "floodwatch-backend" Container</b></p>
