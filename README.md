@@ -28,11 +28,13 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 <p align="center"><b>Frontend: Admin Dashboard</b></p>
 <p align="center">
   <img src="assets/github_ss12.png" width="700"/>
-  <img src="assets/github_ss1_new.png" width="700"/>
-  <img src="assets/github_ss8.png" width="700"/>
-  <img src="assets/github_ss9.png" width="700"/>
-  <img src="assets/github_ss10.png" width="700"/>
-  <img src="assets/github_ss11.png" width="700"/>
+  <img src="assets/new_admin_monitoring_dashboard.png" width="700"/>
+  <img src="assets/new_admin_monitoring_dashboard-1.png" width="700"/>
+  <img src="assets/new_admin_operations_dashboard.png" width="700"/>
+  <img src="assets/new_admin_operations_dashboard-1.png" width="700"/>
+  <img src="assets/new_admin_alerts_dashboard.png" width="700"/>
+  <img src="assets/new_admin_alerts_dashboard-1.png" width="700"/>
+  <img src="assets/new_admin_profile_dashboard.png" width="700"/>
 </p>
 
 <p align="center"><b>Backend: "floodwatch-backend" Container</b></p>
@@ -42,8 +44,11 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>Frontend: Mobile App / Web App</b></p>
 <p align="center">
-  <img src="assets/github_ss2_new.png" width="300"/>
-  <img src="assets/github_ss3_new.png" width="300"/>
+  <img src="assets/new_resident_home_guest.png" width="300"/>
+  <img src="assets/new_resident_home_acc.png" width="300"/>
+  <img src="assets/new_resident_home_acc-1.png" width="300"/>
+  <img src="assets/new_resident_alerts_acc.png" width="300"/>
+  <img src="assets/new_resident_profile_acc.png" width="300"/>
 </p>
 
 <p align="center"><b>3D-Model: Side, Front, Top</b></p>
