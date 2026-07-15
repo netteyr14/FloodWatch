@@ -61,7 +61,7 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>3D-Model: Side, Front, Top</b></p>
 <p align="center">
-  <img src="assets/model_front.png" width="269" height="268" style="margin-right: 10px;" />
+  <img src="assets/model_front.png" width="269" height="200" style="margin-right: 10px;" />
   <img src="assets/model_side.png" width="269" height="200" style="margin-right: 10px;" />
   <img src="assets/model_top.png" width="269" height="200" />
 </p>
