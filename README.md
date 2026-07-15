@@ -27,13 +27,13 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>Frontend: Admin Dashboard</b></p>
 <p align="center">
-  <img src="assets/github_ss12.png" width="700"/>
+  <img src="assets/new_admin_login.png" width="700"/>
   <img src="assets/new_admin_monitoring_dashbaord.png" width="700"/>
   <img src="assets/new_admin_monitoring_dashbaord-1.png" width="700"/>
   <img src="assets/new_admin_operations_dashbaord-2.png" width="700"/>
   <img src="assets/new_admin_operations_dashbaord.png" width="700"/>
   <img src="assets/new_admin_operations_dashbaord-1.png" width="700"/>
-  <img src="assets/new_admin_operations_dashbaord-3.png" width="700"/>
+  <img src="assets/new_admin_operations_dashbaord-2.png" width="700"/>
   <img src="assets/new_admin_alerts_dashbaord.png" width="700"/>
   <img src="assets/new_admin_alerts_dashbaord-1.png" width="700"/>
   <img src="assets/new_admin_profile_dashbaord.png" width="700"/>
@@ -41,13 +41,13 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>Admin Reports: XLSX Output</b></p>
 <p align="center">
-  <img src="assets/reports.png" width="700"/>
-  <img src="assets/reports-1.png" width="700"/>
+  <img src="assets/xlsx_reports.png" width="700"/>
+  <img src="assets/xlsx_reports-1.png" width="700"/>
 </p>
 
 <p align="center"><b>Backend: "floodwatch-backend" Container</b></p>
 <p align="center">
-  <img src="assets/github_ss7.png" width="700"/>
+  <img src="assets/docker_backend.png" width="700"/>
 </p>
 
 <p align="center"><b>Frontend: Mobile App / Web App</b></p>
@@ -61,9 +61,9 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>3D-Model: Side, Front, Top</b></p>
 <p align="center">
-  <img src="assets/github_ss4.png" width="269" height="268" style="margin-right: 10px;" />
-  <img src="assets/github_ss5.png" width="269" height="200" style="margin-right: 10px;" />
-  <img src="assets/github_ss6.png" width="269" height="200" />
+  <img src="assets/model_front.png" width="269" height="268" style="margin-right: 10px;" />
+  <img src="assets/model_side.png" width="269" height="200" style="margin-right: 10px;" />
+  <img src="assets/model_top.png" width="269" height="200" />
 </p>
 
 ---
