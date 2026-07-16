@@ -31,7 +31,6 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
   <img src="assets/new_admin_monitoring_dashbaord.png" width="700"/>
   <img src="assets/new_admin_monitoring_dashbaord-1.png" width="700"/>
 <img src="assets/new_admin_monitoring_dashbaord-2.png" width="700"/>
-  <img src="assets/new_admin_operations_dashbaord-2.png" width="700"/>
   <img src="assets/new_admin_operations_dashbaord.png" width="700"/>
   <img src="assets/new_admin_operations_dashbaord-1.png" width="700"/>
   <img src="assets/new_admin_operations_dashbaord-2.png" width="700"/>
