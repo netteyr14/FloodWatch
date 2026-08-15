@@ -50,6 +50,7 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 <p align="center"><b>Backend: "floodwatch-backend" Container</b></p>
 <p align="center">
   <img src="assets/docker_backend.png" width="700"/>
+  <img src="assets/docker_backend-1.png" width="700"/>
 </p>
 
 <p align="center"><b>Frontend: Mobile App / Web App</b></p>
