@@ -27,18 +27,16 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>Frontend: Admin Dashboard</b></p>
 <p align="center">
-  <img src="assets/new_admin_login.png" width="700"/>
-  <img src="assets/new_admin_monitoring_dashbaord.png" width="700"/>
-  <img src="assets/new_admin_monitoring_dashbaord-1.png" width="700"/>
-  <img src="assets/new_admin_monitoring_dashbaord-2.png" width="700"/>
-  <img src="assets/new_admin_operations_dashbaord.png" width="700"/>
-  <img src="assets/new_admin_operations_dashbaord-1.png" width="700"/>
-  <img src="assets/new_admin_operations_dashbaord-2.png" width="700"/>
-  <img src="assets/new_admin_operations_dashbaord-3.png" width="700"/>
-  <img src="assets/new_admin_alerts_dashbaord.png" width="700"/>
-  <img src="assets/new_admin_alerts_dashbaord-1.png" width="700"/>
-  <img src="assets/new_admin_profile_dashbaord.png" width="700"/>
-  <img src="assets/new_admin_about_us.png" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_login.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_expanded_close.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_expanded_open.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_details_close.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_details_open.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_operations_close.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_operations_open.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_alerts.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_profile.jpg" width="700"/>
+  <img src="updated_ui/desktop_app/desktop_about_us.jpg" width="700"/>
 </p>
 
 <p align="center"><b>Admin Reports: XLSX Output</b></p>
@@ -49,17 +47,24 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
 
 <p align="center"><b>Backend: "floodwatch-backend" Container</b></p>
 <p align="center">
-  <img src="assets/docker_backend.png" width="700"/>
-  <img src="assets/docker_backend-1.png" width="700"/>
+  <img src="updated_ui/ssh_backend/backend.png" width="700"/>
 </p>
 
 <p align="center"><b>Frontend: Mobile App / Web App</b></p>
 <p align="center">
-  <img src="assets/new_resident_home_guest.png" width="300"/>
-  <img src="assets/new_resident_home_acc.png" width="300"/>
-  <img src="assets/new_resident_home_acc-1.png" width="300"/>
-  <img src="assets/new_resident_alerts_acc.png" width="300"/>
-  <img src="assets/new_resident_profile_acc.png" width="300"/>
+  <img src="updated_ui/mobile_app/mobile_home_1.jpg" width="300"/>
+  <img src="updated_ui/mobile_app/mobile_home_2.jpg" width="300"/>
+  <img src="updated_ui/mobile_app/mobile_home_3.jpg" width="300"/>
+  <img src="updated_ui/mobile_app/mobile_alerts.jpg" width="300"/>
+  <img src="updated_ui/mobile_app/mobile_profile.jpg" width="300"/>
+  <img src="updated_ui/mobile_app/mobile_about_us.jpg" width="300"/>
+</p>
+<hr>
+<p align="center">
+  <img src="updated_ui/desktop_web/desktop_web_home.jpg" width="700"/>
+  <img src="updated_ui/desktop_web/desktop_web_alerts.jpg" width="700"/>
+  <img src="updated_ui/desktop_web/desktop_web_profile.jpg" width="700"/>
+  <img src="updated_ui/desktop_web/desktop_web_about_us.jpg" width="700"/>
 </p>
 
 <p align="center">
