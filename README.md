@@ -72,7 +72,7 @@ Unlike traditional flood monitoring systems, FloodWatch integrates machine learn
   <a href="https://floodwatchph.me">https://floodwatchph.me</a>
 </p>
 
-<p align="center"><b>3D-Model: Side, Front, Top</b></p>
+<p align="center"><b>3D-Model: Front, Side, Top</b></p>
 <p align="center">
   <img src="assets/model_front.png" width="269" height="200" style="margin-right: 10px;" />
   <img src="assets/model_side.png" width="269" height="200" style="margin-right: 10px;" />
