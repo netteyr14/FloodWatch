@@ -14,14 +14,14 @@
 [![Cloudflared](https://img.shields.io/badge/Cloudflared-2025.8.1-blue?style=for-the-badge&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/)
 
 **Research Paper Reference:**  
-*"Real-Time Flood Monitoring System with Water Level Forecasting using LoRaWAN-Based Wireless Sensor Network" (in progress)*
+*"Real-Time Flood Monitoring System with Water Level Forecasting using LoRa-Based Wireless Sensor Network" (in progress)*
 
 ---
 
 ## Overview
 FloodWatch is an IoT-based flood monitoring system that tracks rising water levels in real time, forecasts flood risk, and sends timely alerts to residents and barangay officials.
 
-Unlike conventional monitoring setups, it pairs machine learning forecasting with low-power LoRaWAN communication, delivering both predictive and real-time community alerts. The system combines distributed sensor nodes/towers, wireless networking, a containerized cloud backend, and Flutter apps for residents and administrators.
+Unlike conventional monitoring setups, it pairs machine learning forecasting with low-power LoRa P2P communication, delivering both predictive and real-time community alerts. The system combines distributed sensor nodes/towers, wireless networking, a containerized cloud backend, and Flutter apps for residents and administrators.
 
 ## System Screenshots
 
@@ -86,7 +86,7 @@ Unlike conventional monitoring setups, it pairs machine learning forecasting wit
 - **Resident Application** – Cross-platform Flutter app for web and mobile. Allows residents to view real-time flood data, forecasts, and alerts.
 - **Admin Dashboard** – Desktop Flutter app for monitoring system status, managing sensor data, and supporting decision-making for authorities.
 - **Backend API** – Containerized Python server using Docker, Gunicorn, and NGINX. Handles data processing, storage (MySQL), and flood prediction via LightGBM.
-- **Sensor Nodes (LoRa32)** – Field units with FMCW radar, rain sensors, and anemometers. Powered by 12V 9Ah with solar support, sending data via LoRaWAN.
+- **Sensor Nodes (LoRa32)** – Field units with FMCW radar, rain sensors, and anemometers. Powered by 12V 9Ah with solar support, sending data via LoRa P2P.
 
 ---
 
@@ -97,12 +97,14 @@ Sensor Nodes (LoRa32 TX)
         ↓ LoRa P2P
 Base Receiver (LoRa32 RX)
         ↓
-Backend API (Docker + Python)
-        ↓
-Data Processing & LightGBM Forecasting
+_____________________________________________
+Backend API (Docker + NGINX + Python + Cloudflare tunneling)
         ↓
 MySQL Database
         ↓
+Data Processing & LightGBM Forecasting
+        ↓
+_____________________________________________
 REST/WebSocket API
         ↓
 Resident App / Admin Dashboard
