@@ -19,9 +19,9 @@
 ---
 
 ## Overview
-FloodWatch is an IoT-based flood monitoring system that detects rising water levels in real-time, generates forecasts, and sends alerts to residents and barangay officials. 
+FloodWatch is an IoT-based flood monitoring system that tracks rising water levels in real time, forecasts flood risk, and sends timely alerts to residents and barangay officials.
 
-Unlike traditional flood monitoring systems, FloodWatch integrates machine learning-based forecasting and low-power LoRaWAN communication to enable predictive, real-time community alerts even in low-connectivity areas. It combines distributed sensor nodes, wireless communication, a containerized cloud backend, and Flutter applications for both residents and administrators.
+Unlike conventional monitoring setups, it pairs machine learning forecasting with low-power LoRaWAN communication, delivering both predictive and real-time community alerts. The system combines distributed sensor nodes/towers, wireless networking, a containerized cloud backend, and Flutter apps for residents and administrators.
 
 ## System Screenshots
 
