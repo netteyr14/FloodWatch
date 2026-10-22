@@ -14,7 +14,7 @@
 [![Cloudflared](https://img.shields.io/badge/Cloudflared-2025.8.1-blue?style=for-the-badge&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/)
 
 **Research Paper Reference:**  
-*"Real-Time Flood Monitoring System with Water Level Forecasting using LoRa-Based Wireless Sensor Network" (in progress)*
+*"Real-Time Flood Monitoring System with Water Level Forecasting using LoRa-based Wireless Sensor Network" (in progress)*
 
 ---
 
