@@ -116,7 +116,7 @@ Resident App / Admin Dashboard
 - Real-time water level monitoring
 - Flood prediction using LightGBM
 - Mobile & web-based alerts
-- Offline-capable LoRa communication
+- Offline-capable LoRa communication (Desktop Admin App)
 - Admin monitoring dashboard with analytics
 
 ---
