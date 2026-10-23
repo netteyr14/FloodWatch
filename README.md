@@ -86,7 +86,7 @@ Unlike conventional monitoring setups, it pairs machine learning forecasting wit
 - **Resident Application** – Cross-platform Flutter app for web and mobile. Allows residents to view real-time flood data, forecasts, and alerts.
 - **Admin Dashboard** – Desktop Flutter app for monitoring system status, managing sensor data, and supporting decision-making for authorities.
 - **Backend API** – Containerized Python server using Docker, Gunicorn, and NGINX. Handles data processing, storage (MySQL), and flood prediction via LightGBM.
-- **Sensor Nodes (LoRa32)** – Field units with FMCW radar, rain sensors, and anemometers. Powered by 12V 9Ah with solar support, sending data via LoRa P2P.
+- **Sensor Nodes (LoRa32)** – Field units with FMCW radar, rain sensors, and anemometers. Powered by 12V 9Ah VRLA lead-acid battery with solar support, sending data via LoRa P2P.
 
 ---
 
