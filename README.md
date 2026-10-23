@@ -97,14 +97,14 @@ Sensor Nodes (LoRa32 TX)
         ↓ LoRa P2P
 Base Receiver (LoRa32 RX)
         ↓
-_____________________________________________
+_____________________________________________________________
 Backend API (Docker + NGINX + Python + Cloudflare tunneling)
         ↓
 MySQL Database
         ↓
 Data Processing & LightGBM Forecasting
         ↓
-_____________________________________________
+_____________________________________________________________
 REST/WebSocket API
         ↓
 Resident App / Admin Dashboard
